@@ -4,8 +4,10 @@ public class Oven extends Product{
     @Override
     public String toString()
     {
-        String result="Духовка по цене ";
+        String result="Духовка '";
+        result+=this.title;
+        result+="' по цене ";
         result+=this.price;
-        return "";
+        return result;
     }
 }

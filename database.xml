@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalogue>
+    <Fridge>
+        <title>cool fridge</title>
+        <price>10</price>
+    </Fridge>
+    <Kettle>
+        <title>cool kettle</title>
+        <price>17</price>
+    </Kettle>
+    <Kettle>
+        <title>cool kettle number 2</title>
+        <price>10</price>
+    </Kettle>
+</Catalogue>
+

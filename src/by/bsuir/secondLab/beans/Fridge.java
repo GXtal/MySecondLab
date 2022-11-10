@@ -4,8 +4,10 @@ public class Fridge extends Product{
     @Override
     public String toString()
     {
-        String result="Холодильник по цене ";
+        String result="Холодильник '";
+        result+=this.title;
+        result+="' по цене ";
         result+=this.price;
-        return "";
+        return result;
     }
 }
