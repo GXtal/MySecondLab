@@ -6,10 +6,10 @@ import by.bsuir.secondLab.service.SearchService;
 
 public class SearchServiceImpl implements SearchService {
     @Override
-    public void searchType() {
+    public void findType() {
         DAOFactory daoFactory = DAOFactory.getInstance();
         SearchDAO searchDAO = daoFactory.getSearchDAO();
-        searchDAO.searchType();
+        searchDAO.findType();
     }
 
     @Override

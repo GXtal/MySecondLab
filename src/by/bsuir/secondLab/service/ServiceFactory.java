@@ -10,7 +10,7 @@ public class ServiceFactory {
     public static ServiceFactory getInstance(){
         return instance;
     }
-    public SearchService getCLientService() {
+    public SearchService getSearchServiceService() {
         return searchService;
     }
 }

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class SearchDAOFile implements SearchDAO {
     @Override
-    public ArrayList<Product> searchType() {
+    public ArrayList<Product> findType() {
         ArrayList<Product> a= new ArrayList<Product>();
         a.add(new Fridge());
         return a;
