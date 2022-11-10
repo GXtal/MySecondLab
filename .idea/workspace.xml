@@ -2,18 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5bb71a-1ad3-4278-965e-2b34cfdaf9d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySecondLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/SearchDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/impl/SearchDAOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Kettle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Oven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/impl/SearchServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668104778891</updated>
-      <workItem from="1668104781153" duration="440000" />
+      <workItem from="1668104781153" duration="4301000" />
     </task>
     <servers />
   </component>
