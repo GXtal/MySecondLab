@@ -1,6 +1,6 @@
 package by.bsuir.secondLab.dao;
 
-import by.bsuir.secondLab.goods.Product;
+import by.bsuir.secondLab.beans.Product;
 
 import java.util.ArrayList;
 

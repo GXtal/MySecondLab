@@ -1,8 +1,8 @@
 package by.bsuir.secondLab.dao.impl;
 
 import by.bsuir.secondLab.dao.SearchDAO;
-import by.bsuir.secondLab.goods.Fridge;
-import by.bsuir.secondLab.goods.Product;
+import by.bsuir.secondLab.beans.Fridge;
+import by.bsuir.secondLab.beans.Product;
 
 import java.util.ArrayList;
 

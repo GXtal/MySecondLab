@@ -10,6 +10,6 @@ public class FindType implements Command{
         SearchService searchService = serviceFactory.getSearchServiceService();
         searchService.findType();
 
-        return null;
+        return "Complete";
     }
 }

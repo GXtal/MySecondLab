@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5bb71a-1ad3-4278-965e-2b34cfdaf9d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/CommandProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/CommandName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindMinPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/WrongRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/beans/Beans.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindMinPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindMinPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/FindType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/WrongRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/controller/command/WrongRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/SearchDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/SearchDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/impl/SearchDAOFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/dao/impl/SearchDAOFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/SearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/beans/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Kettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/beans/Kettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/beans/Oven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/goods/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/beans/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/impl/SearchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/secondLab/service/impl/SearchServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668104778891</updated>
-      <workItem from="1668104781153" duration="5674000" />
+      <workItem from="1668104781153" duration="7727000" />
     </task>
     <servers />
   </component>

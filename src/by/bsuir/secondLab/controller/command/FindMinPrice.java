@@ -6,11 +6,12 @@ import by.bsuir.secondLab.service.ServiceFactory;
 public class FindMinPrice implements Command{
     @Override
     public String execute(String request) {
+
         ServiceFactory serviceFactory = ServiceFactory.getInstance();
         SearchService searchService = serviceFactory.getSearchServiceService();
         searchService.findMinPrice();
 
 
-        return null;
+        return "Complete";
     }
 }
